@@ -1,0 +1,872 @@
+/* =============================================
+   ESTRUCTURA: IMATGE -> MENÚ -> CONTINGUT
+   Amplada limitada per coincidir amb el contingut
+   ============================================= */
+
+/* Contenidor per limitar l'amplada de la imatge i el menú */
+.intro-header {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    max-width: 1170px !important;
+    width: 100% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    border-radius: 0 0 8px 8px;
+    min-height: 280px;  /* Alçada mínima reduïda */
+    background-size: cover !important;
+    background-position: center center !important;
+    position: relative;
+}
+
+/* Link que envolta la imatge de capçalera */
+.header-link-wrapper {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+}
+
+@media only screen and (min-width: 768px) {
+    .intro-header {
+        min-height: 380px;  /* Alçada mínima en escriptori - reduïda */
+    }
+}
+
+/* Contingut de la capçalera */
+.intro-header .site-heading,
+.intro-header .post-heading,
+.intro-header .page-heading {
+    padding: 120px 0 100px !important;
+}
+
+@media only screen and (min-width: 768px) {
+    .intro-header .site-heading,
+    .intro-header .post-heading,
+    .intro-header .page-heading {
+        padding: 140px 0 110px !important;  /* Reduït per capçalera més estreta */
+    }
+}
+
+/* =============================================
+   MENÚ - Ara va DESPRÉS de la imatge
+   Amplada limitada per coincidir amb el contingut
+   ============================================= */
+
+.navbar-custom {
+    background: #333 !important;
+    border: none !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
+    position: relative !important;
+    top: auto !important;
+    left: auto !important;
+    width: 100% !important;
+    max-width: 1170px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    z-index: 1000;
+    margin-bottom: 0;
+    border-radius: 8px 8px 0 0;
+}
+
+/* Quan el navbar es fixa al fer scroll */
+.navbar-custom.is-fixed {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    background: rgba(51, 51, 51, 0.98) !important;
+    -webkit-transform: none !important;
+    -moz-transform: none !important;
+    transform: none !important;
+}
+
+.navbar-custom.is-visible {
+    -webkit-transform: none !important;
+    -moz-transform: none !important;
+    transform: none !important;
+}
+
+/* Colors del menú */
+.navbar-custom .navbar-brand {
+    color: #fff !important;
+}
+
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus {
+    color: #f46518 !important;
+}
+
+.navbar-custom .nav li a {
+    color: #fff !important;
+}
+
+.navbar-custom .nav li a:hover,
+.navbar-custom .nav li a:focus {
+    color: #f46518 !important;
+}
+
+/* Dropdown menu */
+.navbar-custom .dropdown-toggle,
+.navbar-custom .dropdown-toggle:focus {
+    color: #fff !important;
+}
+
+.navbar-custom .dropdown-toggle .caret {
+    border-top-color: #fff;
+    border-bottom-color: #fff;
+}
+
+.navbar-custom .dropdown-menu {
+    background: rgba(51, 51, 51, 0.98);
+    border: none;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35);
+}
+
+.navbar-custom .dropdown-menu > li > a {
+    color: #fff;
+    padding: 10px 18px;
+}
+
+.navbar-custom .dropdown-menu > li > a:hover,
+.navbar-custom .dropdown-menu > li > a:focus {
+    color: #fff;
+    background: rgba(255, 255, 255, 0.08);
+}
+
+/* Responsiu per mòbils */
+@media (max-width: 768px) {
+    .navbar-custom {
+        background: #333 !important;
+    }
+    
+    .navbar-custom .navbar-collapse {
+        background: #333;
+        border-color: rgba(255, 255, 255, 0.1);
+    }
+}
+
+/* =============================================
+   SIDEBAR - Tots els enllaços
+   ============================================= */
+
+/* Tots els enllaços del sidebar - Color negre per defecte */
+.sidebar-container a {
+    color: #000 !important;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+/* Tots els enllaços del sidebar - Taronja al hover */
+.sidebar-container a:hover,
+.sidebar-container a:focus {
+    color: #f46518 !important;
+}
+
+/* Llista de països - estils específics */
+.sidebar-container .country-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    columns: 1;
+}
+
+.sidebar-container .country-list li {
+    padding: 4px 0;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.sidebar-container .country-list li:last-child {
+    border-bottom: none;
+}
+
+.sidebar-container .country-list a {
+    font-size: 14px;
+}
+
+/* Tags del sidebar */
+.sidebar-container .tags a {
+    font-size: 14px;
+}
+
+/* Últims posts i altres llistes */
+.sidebar-container ul a {
+    font-size: 14px;
+}
+
+.sidebar-container section h5 {
+    color: #111;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+/* =============================================
+   ESPAI ENTRE CAPÇALERA I CONTINGUT
+   ============================================= */
+
+/* Espai entre la capçalera i el primer post a les pàgines de llistes */
+.container > .row {
+    padding-top: 40px;
+}
+
+/* =============================================
+   ALINEACIÓ PÀGINES DE LLISTES (igual que home)
+   ============================================= */
+
+/* Contenidor principal de les pàgines de llistes - mateixa amplada que intro-header */
+.container:not(.homepage-container) {
+    max-width: 1170px !important;
+    width: 100% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.container:not(.homepage-container) > .row {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+/* Columna principal dels posts - treure l'offset de Bootstrap */
+.container:not(.homepage-container) > .row > .col-lg-offset-1,
+.container:not(.homepage-container) > .row > .col-md-offset-1,
+.container:not(.homepage-container) > .row > .col-lg-offset-2,
+.container:not(.homepage-container) > .row > .col-md-offset-2 {
+    margin-left: 0 !important;
+}
+
+.container:not(.homepage-container) > .row > .col-lg-8,
+.container:not(.homepage-container) > .row > .col-md-8 {
+    padding-left: 0 !important;
+    padding-right: 10px !important;
+}
+
+/* Sidebar a les pàgines de llistes - alineat a la dreta amb la capçalera */
+.container:not(.homepage-container) .sidebar-container {
+    padding-left: 25px !important;
+    padding-right: 0 !important;
+}
+
+/* Ampliar la columna del sidebar per ocupar l'espai alliberat per l'offset */
+.container:not(.homepage-container) > .row > .col-lg-3,
+.container:not(.homepage-container) > .row > .col-md-4 {
+    width: 25% !important;
+    padding-right: 0 !important;
+}
+
+/* Ampliar columna dels posts per ocupar més espai */
+.container:not(.homepage-container) > .row > .col-lg-8,
+.container:not(.homepage-container) > .row > .col-md-8 {
+    width: 75% !important;
+}
+
+/* =============================================
+   TÍTOLS DELS POSTS - Color negre
+   ============================================= */
+
+.post-preview .post-title,
+.post-preview .post-title a,
+.post-preview a .post-title {
+    color: #000 !important;
+}
+
+.post-preview .post-title:hover,
+.post-preview .post-title a:hover,
+.post-preview a:hover .post-title {
+    color: #444 !important;
+}
+
+/* Resum dels posts - Color negre i justificat */
+.post-preview .post-content-preview,
+.post-preview .post-content-preview p,
+.post-preview a .post-content-preview {
+    color: #000 !important;
+    text-align: justify !important;
+}
+
+.post-preview .post-content-preview:hover,
+.post-preview a:hover .post-content-preview,
+.post-preview a:hover .post-content-preview p {
+    color: #444 !important;
+}
+
+/* =============================================
+   PÀGINA DE POST INDIVIDUAL
+   ============================================= */
+
+/* Secció del títol del post */
+.post-title-section {
+    background: #f5f5f5;
+    padding: 30px 0;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.post-title-main {
+    color: #222;
+    font-size: 2.2rem;
+    font-weight: 700;
+    margin: 0 0 10px 0;
+}
+
+.post-subtitle {
+    color: #555;
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin: 0 0 15px 0;
+}
+
+.post-meta {
+    color: #888;
+    font-size: 0.95rem;
+}
+
+/* Wrapper per a la imatge destacada */
+.post-featured-image-wrapper {
+    margin-bottom: 30px;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+/* Imatge destacada del post */
+.post-featured-img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* =============================================
+   HOMEPAGE - GRID DE 3 POSTS
+   ============================================= */
+
+/* Homepage container - mateixa amplada que intro-header */
+.homepage-container {
+    max-width: 1170px !important;
+    width: 100% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.homepage-container > .row {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+.homepage-container .post-container {
+    padding-left: 0 !important;
+    padding-right: 10px !important;
+}
+
+.homepage-container .sidebar-container {
+    padding-left: 25px !important;
+    padding-right: 0 !important;
+}
+
+/* Homepage grid section - dins del layout de columnes */
+.homepage-grid-section {
+    padding: 30px 0;
+}
+
+.posts-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 25px;
+    margin-bottom: 40px;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/* Grid de 2 columnes per home page amb sidebar */
+.posts-grid-2col {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+/* Responsiu per a pantalles mitjanes */
+@media (max-width: 900px) {
+    .posts-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .posts-grid-2col {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* Responsiu per a mòbils */
+@media (max-width: 576px) {
+    .posts-grid,
+    .posts-grid-2col {
+        grid-template-columns: 1fr;
+    }
+}
+
+.post-card {
+    background: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.post-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+.post-card-link {
+    text-decoration: none !important;
+    color: inherit;
+    display: block;
+}
+
+.post-card-link:hover {
+    text-decoration: none !important;
+}
+
+.post-card-image {
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+}
+
+.post-card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.post-card:hover .post-card-image img {
+    transform: scale(1.05);
+}
+
+/* Placeholder per posts sense imatge */
+.post-card-image-placeholder {
+    background: linear-gradient(135deg, #f5f5f5 0%, #e0e0e0 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.placeholder-icon {
+    font-size: 3rem;
+    opacity: 0.5;
+}
+
+.post-card-content {
+    padding: 20px;
+}
+
+.post-card-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #333;
+    margin: 0 0 12px 0;
+    line-height: 1.4;
+}
+
+.post-card:hover .post-card-title {
+    color: #f46518;
+}
+
+.post-card-preview {
+    font-size: 0.9rem;
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+.post-card-meta {
+    font-size: 0.8rem;
+    color: #999;
+    margin: 0;
+}
+
+/* Botó "Más artículos" */
+.more-articles-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.more-articles-btn,
+.post-container .more-articles-btn,
+.post-container a.more-articles-btn,
+a.more-articles-btn {
+    display: inline-block;
+    padding: 12px 30px;
+    font-size: 1.5rem !important;
+    font-family: inherit !important;
+    line-height: 1.5 !important;
+    border-radius: 5px;
+    cursor: pointer;
+    pointer-events: auto;
+    position: relative;
+    z-index: 10;
+    background-color: #f46518 !important;
+    border: 1px solid #f46518 !important;
+    color: #fff !important;
+    text-decoration: none !important;
+    text-indent: 0 !important;
+    letter-spacing: normal !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+}
+
+.more-articles-btn:hover,
+.more-articles-btn:focus,
+.post-container .more-articles-btn:hover,
+.post-container .more-articles-btn:focus,
+.post-container a.more-articles-btn:hover,
+.post-container a.more-articles-btn:focus {
+    background-color: #d45510 !important;
+    border-color: #d45510 !important;
+    color: #fff !important;
+    text-decoration: none !important;
+}
+
+/* Secció "Sugerencias de temporada" */
+.seasonal-section {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.seasonal-link {
+    display: block;
+    text-decoration: none;
+}
+
+.seasonal-image-wrapper {
+    position: relative;
+    width: 100%;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+    background: none;
+    font-size: 0;
+    line-height: 0;
+}
+
+.seasonal-image {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.3s ease;
+    margin: 0;
+    padding: 0;
+    vertical-align: bottom;
+}
+
+.seasonal-link:hover .seasonal-image {
+    transform: scale(1.02);
+}
+
+.seasonal-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.seasonal-button {
+    display: inline-block;
+    padding: 15px 40px;
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: #fff;
+    background: transparent;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: all 0.3s ease;
+}
+
+.seasonal-link:hover .seasonal-button {
+    background: rgba(255, 255, 255, 0.2);
+    transform: scale(1.05);
+}
+
+/* Responsive per a mòbils */
+@media (max-width: 576px) {
+    .seasonal-button {
+        padding: 12px 25px;
+        font-size: 1rem;
+    }
+    
+    .seasonal-image {
+        max-height: 250px;
+    }
+}
+
+/* =============================================
+   SECCIÓ DE TRES IMATGES DESTACADES
+   ============================================= */
+
+.featured-categories-section {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.featured-categories-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.featured-category-link {
+    display: block;
+    text-decoration: none;
+}
+
+.featured-category-wrapper {
+    position: relative;
+    width: 100%;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+    padding: 0;
+    margin: 0;
+    line-height: 0;
+}
+
+.featured-category-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    transition: transform 0.3s ease;
+    margin: 0;
+    padding: 0;
+}
+
+.featured-category-link:hover .featured-category-image {
+    transform: scale(1.05);
+}
+
+.featured-category-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.3);
+    transition: background 0.3s ease;
+}
+
+.featured-category-link:hover .featured-category-overlay {
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.featured-category-title {
+    display: inline-block;
+    padding: 10px 25px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #fff;
+    background: transparent;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: all 0.3s ease;
+}
+
+.featured-category-link:hover .featured-category-title {
+    background: rgba(255, 255, 255, 0.2);
+    transform: scale(1.05);
+}
+
+/* Responsive per a mòbils - tres imatges */
+@media (max-width: 768px) {
+    .featured-categories-grid {
+        grid-template-columns: 1fr;
+        gap: 15px;
+    }
+    
+    .featured-category-wrapper {
+        aspect-ratio: 16/9;
+    }
+    
+    .featured-category-title {
+        padding: 8px 20px;
+        font-size: 1rem;
+    }
+}
+
+/* =============================================
+   COLOR TARONJA PER A TOTS ELS ENLLAÇOS
+   Sobreescriu el blau #0085a1 del tema
+   ============================================= */
+
+/* Text dels posts justificat */
+.post-container,
+.post-container p,
+.post-container li {
+    text-align: justify !important;
+}
+
+/* Enllaços dins del contingut dels posts - Color taronja per defecte */
+.post-container a {
+    color: #f46518 !important;
+}
+
+article .post-container a {
+    color: #f46518 !important;
+}
+
+/* Sobreescriure específicament el blau del tema */
+.post-container p a,
+.post-container li a,
+.post-container blockquote a,
+.post-container .content a,
+article .container .post-container a {
+    color: #f46518 !important;
+}
+
+/* Enllaços dins del contingut dels posts - hover més fosc */
+.post-container a:hover,
+.post-container a:focus,
+.post-container p a:hover,
+.post-container p a:focus,
+.post-container li a:hover,
+.post-container li a:focus,
+article .post-container a:hover,
+article .post-container a:focus {
+    color: #d45510 !important;
+}
+
+/* Excloure el pager (navegació entre posts) del color taronja */
+.post-container .pager a {
+    color: #333 !important;
+}
+
+.post-container .pager a:hover,
+.post-container .pager a:focus {
+    color: #fff !important;
+}
+
+/* Pager (navegació entre posts) */
+.pager li > a:hover,
+.pager li > a:focus {
+    background-color: #f46518 !important;
+    border-color: #f46518 !important;
+}
+
+/* Tags i categories */
+.tag-cloud a:hover,
+.tags a:hover {
+    color: #f46518 !important;
+}
+
+/* Footer */
+footer a:hover,
+footer a:focus {
+    color: #f46518 !important;
+}
+
+/* =============================================
+   GALERIA DE FOTOS / POSTALES DE VIAJES
+   ============================================= */
+
+.galeria-container {
+    padding-top: 40px;
+}
+
+.galeria-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.galeria-intro {
+    font-size: 1.1rem;
+    color: #666;
+    margin-bottom: 30px;
+    line-height: 1.6;
+}
+
+.galeria-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 5px;
+}
+
+.galeria-item {
+    position: relative;
+    overflow: hidden;
+    aspect-ratio: 1;
+    display: block;
+}
+
+.galeria-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.galeria-item:hover img {
+    transform: scale(1.1);
+}
+
+.galeria-item-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(transparent, rgba(0,0,0,0.7));
+    padding: 40px 10px 10px 10px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.galeria-item:hover .galeria-item-overlay {
+    opacity: 1;
+}
+
+.galeria-item-title {
+    color: #fff;
+    font-size: 0.85rem;
+    font-weight: 500;
+    display: block;
+    text-align: center;
+}
+
+/* Responsive per a la galeria */
+@media (max-width: 992px) {
+    .galeria-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (max-width: 768px) {
+    .galeria-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .galeria-title {
+        font-size: 2rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .galeria-grid {
+        grid-template-columns: 1fr;
+        gap: 10px;
+    }
+    
+    .galeria-item {
+        aspect-ratio: 16/9;
+    }
+}
