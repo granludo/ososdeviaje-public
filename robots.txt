@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wasabi.essi.upc.edu/blogs/ososdeviaje-public/sitemap.xml
