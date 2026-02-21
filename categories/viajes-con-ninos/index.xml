@@ -41,18 +41,43 @@
  }
 &lt;/style&gt;
 
-&lt;p&gt;Osaka es una mega urbe japonesa que hay que visitar en un primer viaje a Japón. En esta entrada os explicamos qué hicimos en dos días.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2025/12/que-hacer-en-osaka-en-dos-dias/feature.jpeg"/></item><item><title>Escapada a Holanda meridional</title><link>https://ososdeviaje.com/post/2025/11/escapada-a-holanda-meridional/</link><pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2025/11/escapada-a-holanda-meridional/</guid><description>&lt;p&gt;Os traigo una propuesta de escapada de 2 o 3 días para descubrir la zona de &lt;strong&gt;Brabante del norte&lt;/strong&gt; (Noord-Brabant en neerlandés). Esta provincia se encuentra en el sur del país, en la frontera con Bélgica.&lt;/p&gt;
-
-&lt;h2 class="relative group"&gt;&lt;strong&gt;Cómo llegar&lt;/strong&gt;
- &lt;div id="cómo-llegar" class="anchor"&gt;&lt;/div&gt;
- 
- &lt;span
- class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
- &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#c%c3%b3mo-llegar" aria-label="Ancla"&gt;#&lt;/a&gt;
- &lt;/span&gt;
- 
-&lt;/h2&gt;
-&lt;p&gt;La forma más sencilla de empezar esta ruta es volando a Eindhoven. Desde Barcelona existen vuelos directos con Transavia y el trayecto se recorre en poco más de dos horas.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2025/11/escapada-a-holanda-meridional/feature.jpeg"/></item><item><title>Qué hacer en Tokyo, la gran metrópolis japonesa</title><link>https://ososdeviaje.com/post/2025/10/que-hacer-en-tokyo-la-gran-metropolis-japonesa/</link><pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2025/10/que-hacer-en-tokyo-la-gran-metropolis-japonesa/</guid><description>&lt;style&gt;
+&lt;p&gt;Osaka es una mega urbe japonesa que hay que visitar en un primer viaje a Japón. En esta entrada os explicamos qué hicimos en dos días.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2025/12/que-hacer-en-osaka-en-dos-dias/feature.jpeg"/></item><item><title>Escapada a Holanda meridional</title><link>https://ososdeviaje.com/post/2025/11/escapada-a-holanda-meridional/</link><pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2025/11/escapada-a-holanda-meridional/</guid><description>&lt;style&gt;
+ .gallery-holanda-2col {
+ display: grid;
+ grid-template-columns: repeat(2, 1fr);
+ gap: 15px;
+ margin: 2rem 0;
+ }
+ @media (max-width: 768px) {
+ .gallery-holanda-2col {
+ grid-template-columns: 1fr;
+ }
+ }
+ .gallery-holanda-2col figure {
+ margin: 0;
+ overflow: hidden;
+ border-radius: 8px;
+ box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+ }
+ .gallery-holanda-2col img {
+ width: 100%;
+ height: 280px;
+ object-fit: cover;
+ transition: transform 0.3s ease;
+ display: block;
+ }
+ .gallery-holanda-2col img:hover {
+ transform: scale(1.03);
+ }
+ .gallery-holanda-2col figcaption {
+ padding: 12px;
+ text-align: center;
+ font-size: 0.9rem;
+ color: #555;
+ background: #fafafa;
+ }
+&lt;/style&gt;
+&lt;p&gt;Os traigo una propuesta de escapada de 2 o 3 días para descubrir la zona de &lt;strong&gt;Brabante del norte&lt;/strong&gt; (Noord-Brabant en neerlandés). Esta provincia se encuentra en el sur del país, en la frontera con Bélgica.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2025/11/escapada-a-holanda-meridional/feature.jpeg"/></item><item><title>Qué hacer en Tokyo, la gran metrópolis japonesa</title><link>https://ososdeviaje.com/post/2025/10/que-hacer-en-tokyo-la-gran-metropolis-japonesa/</link><pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2025/10/que-hacer-en-tokyo-la-gran-metropolis-japonesa/</guid><description>&lt;style&gt;
  .gallery-tokyo {
  display: grid;
  grid-template-columns: repeat(3, 1fr);

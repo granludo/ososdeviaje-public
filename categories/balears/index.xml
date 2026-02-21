@@ -1,16 +1,75 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Balears on Osos de Viaje</title><link>https://ososdeviaje.com/categories/balears/</link><description>Recent content in Balears on Osos de Viaje</description><generator>Hugo -- gohugo.io</generator><language>es</language><copyright>© 2026 Osos de Viaje</copyright><lastBuildDate>Thu, 12 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ososdeviaje.com/categories/balears/index.xml" rel="self" type="application/rss+xml"/><item><title>Qué hacer y qué ver en Pollença (Mallorca)</title><link>https://ososdeviaje.com/post/2025/06/que-hacer-y-que-ver-en-pollenca-mallorca/</link><pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2025/06/que-hacer-y-que-ver-en-pollenca-mallorca/</guid><description>&lt;style&gt;
-/* Galeria 2 columnes amb proporcions naturals */
-.gallery-natural { display: flex; flex-wrap: wrap; gap: 10px; }
-.gallery-natural .box { flex: 0 0 calc(50% - 5px); max-width: calc(50% - 5px); }
-.gallery-natural .box .img { height: auto; max-height: 400px; background: none; }
-.gallery-natural .box .img img { width: 100%; height: auto; max-height: 400px; object-fit: contain; }
-/* Galeria 3 columnes amb proporcions naturals */
-.gallery-3col { display: flex; flex-wrap: wrap; gap: 10px; }
-.gallery-3col .box { flex: 0 0 calc(33.333% - 7px); max-width: calc(33.333% - 7px); }
-.gallery-3col .box .img { height: auto; max-height: 350px; background: none; }
-.gallery-3col .box .img img { width: 100%; height: auto; max-height: 350px; object-fit: contain; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Balears on Osos de Viaje</title><link>https://ososdeviaje.com/categories/balears/</link><description>Recent content in Balears on Osos de Viaje</description><generator>Hugo -- gohugo.io</generator><language>es</language><copyright>© 2026 Osos de Viaje</copyright><lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://ososdeviaje.com/categories/balears/index.xml" rel="self" type="application/rss+xml"/><item><title>Ruta de senderismo por el Parque Natural de Mondragó en Mallorca</title><link>https://ososdeviaje.com/post/2026/02/ruta-de-senderismo-parque-natural-mondrago-mallorca/</link><pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2026/02/ruta-de-senderismo-parque-natural-mondrago-mallorca/</guid><description>&lt;style&gt;
+ .gallery-mondrago-2col {
+ display: grid;
+ grid-template-columns: repeat(2, 1fr);
+ gap: 15px;
+ margin: 2rem 0;
+ }
+ @media (max-width: 768px) {
+ .gallery-mondrago-2col {
+ grid-template-columns: 1fr;
+ }
+ }
+ .gallery-mondrago-2col figure {
+ margin: 0;
+ overflow: hidden;
+ border-radius: 8px;
+ box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+ }
+ .gallery-mondrago-2col img {
+ width: 100%;
+ height: 280px;
+ object-fit: cover;
+ transition: transform 0.3s ease;
+ display: block;
+ }
+ .gallery-mondrago-2col img:hover {
+ transform: scale(1.03);
+ }
+ .gallery-mondrago-2col figcaption {
+ padding: 12px;
+ text-align: center;
+ font-size: 0.9rem;
+ color: #555;
+ background: #fafafa;
+ }
 &lt;/style&gt;
-
+&lt;p&gt;El &lt;strong&gt;Parque Natural de Mondragó&lt;/strong&gt; se sitúa en el sureste de Mallorca, dentro del municipio de &lt;strong&gt;Santanyí&lt;/strong&gt;, y es uno de esos lugares donde la isla muestra su lado más natural. Protege cerca de 780 hectáreas de costa mediterránea con calas de aguas claras, dunas bien conservadas, acantilados bajos y zonas húmedas que forman un paisaje muy variado y fácil de disfrutar.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2026/02/ruta-de-senderismo-parque-natural-mondrago-mallorca/cover.jpeg"/></item><item><title>Qué hacer y qué ver en Pollença (Mallorca)</title><link>https://ososdeviaje.com/post/2025/06/que-hacer-y-que-ver-en-pollenca-mallorca/</link><pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2025/06/que-hacer-y-que-ver-en-pollenca-mallorca/</guid><description>&lt;style&gt;
+ .gallery-pollenca-2col {
+ display: grid;
+ grid-template-columns: repeat(2, 1fr);
+ gap: 15px;
+ margin: 2rem 0;
+ }
+ @media (max-width: 768px) {
+ .gallery-pollenca-2col {
+ grid-template-columns: 1fr;
+ }
+ }
+ .gallery-pollenca-2col figure {
+ margin: 0;
+ overflow: hidden;
+ border-radius: 8px;
+ box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+ }
+ .gallery-pollenca-2col img {
+ width: 100%;
+ height: 280px;
+ object-fit: cover;
+ transition: transform 0.3s ease;
+ display: block;
+ }
+ .gallery-pollenca-2col img:hover {
+ transform: scale(1.03);
+ }
+ .gallery-pollenca-2col figcaption {
+ padding: 12px;
+ text-align: center;
+ font-size: 0.9rem;
+ color: #555;
+ background: #fafafa;
+ }
+&lt;/style&gt;
 &lt;p&gt;Pollença es un pueblo situado en el norte de Mallorca, tocando a la Serra de Tramuntana y muy cerca del cabo de Formentor. En este artículo os explicamos que hacer allí.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2025/06/que-hacer-y-que-ver-en-pollenca-mallorca/feature.jpeg"/></item><item><title>Excursión a Cala Varques</title><link>https://ososdeviaje.com/post/2024/03/excursion-a-cala-varques-mallorca/</link><pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2024/03/excursion-a-cala-varques-mallorca/</guid><description>&lt;p&gt;Hoy, os llevaré a un rincón de Mallorca muy popular en verano pero de difícil acceso: Cala Varques. Para llegar a Cala Varques hay que llegar en barca o caminar más de 2 km para disfrutar de aguas cristalinas y una naturaleza intacta.&lt;/p&gt;
 &lt;p&gt;Con la excepción de julio y agosto es una bonita cala para ir a pasar el día y fuera del verano un lugar ideal para ir a hacer una excursión. En esta entrada os explicaremos las dos formas de llegar a Cala Varques haciendo excursiones.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2024/03/excursion-a-cala-varques-mallorca/feature.jpeg"/></item><item><title>Excursión a sa Talaia de son Jaumell (Mallorca)</title><link>https://ososdeviaje.com/post/2023/06/excursion-a-sa-talaia-de-son-jaumell-mallorca/</link><pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2023/06/excursion-a-sa-talaia-de-son-jaumell-mallorca/</guid><description>&lt;p&gt;Salimos del aparcamiento de Cala Agulla en dirección a la playa. Buscamos un camino entre los pinos que protegen la playa en dirección a Cala Mesquida. Cruzamos una barrera metálica y seguimos por un amplio camino de tierra. La primera parada es la bonita cala de Cala Moltó. Después de la cala, veréis que el camino es ancho y no tiene pérdida.&lt;/p&gt;
 &lt;p&gt;Más adelante encontramos una bifurcación: recto seguimos hacia Cala Mesquida y hacia la derecha tenemos un desvío que nos adentra en el bosque de pinos. Tomaremos el desvío a la derecha. Al tomar el desvío hacia la derecha podemos parar para ver un antiguo horno de cal.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2023/06/excursion-a-sa-talaia-de-son-jaumell-mallorca/feature.jpeg"/></item><item><title>Excursión por el camí des presos en Mallorca</title><link>https://ososdeviaje.com/post/2023/03/excursion-por-el-cami-des-presos-en-mallorca/</link><pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2023/03/excursion-por-el-cami-des-presos-en-mallorca/</guid><description>&lt;p&gt;En esta ocasión os proponemos otra excursión por el &lt;strong&gt;Parc Natural de la Península de Llevant en Mallorca&lt;/strong&gt;. Es el conocido camí dels presos. Esta ruta nos permitirá atravesar el parque hasta la cima del Puig de sa Tudossa (441 m). Desde allí tendremos una fantástica panorámica de la bahía del Alcudia y en días claros de la vecina isla de Menorca.&lt;/p&gt;

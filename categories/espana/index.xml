@@ -1,16 +1,75 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Espana on Osos de Viaje</title><link>https://ososdeviaje.com/categories/espana/</link><description>Recent content in Espana on Osos de Viaje</description><generator>Hugo -- gohugo.io</generator><language>es</language><copyright>© 2026 Osos de Viaje</copyright><lastBuildDate>Thu, 12 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ososdeviaje.com/categories/espana/index.xml" rel="self" type="application/rss+xml"/><item><title>Qué hacer y qué ver en Pollença (Mallorca)</title><link>https://ososdeviaje.com/post/2025/06/que-hacer-y-que-ver-en-pollenca-mallorca/</link><pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2025/06/que-hacer-y-que-ver-en-pollenca-mallorca/</guid><description>&lt;style&gt;
-/* Galeria 2 columnes amb proporcions naturals */
-.gallery-natural { display: flex; flex-wrap: wrap; gap: 10px; }
-.gallery-natural .box { flex: 0 0 calc(50% - 5px); max-width: calc(50% - 5px); }
-.gallery-natural .box .img { height: auto; max-height: 400px; background: none; }
-.gallery-natural .box .img img { width: 100%; height: auto; max-height: 400px; object-fit: contain; }
-/* Galeria 3 columnes amb proporcions naturals */
-.gallery-3col { display: flex; flex-wrap: wrap; gap: 10px; }
-.gallery-3col .box { flex: 0 0 calc(33.333% - 7px); max-width: calc(33.333% - 7px); }
-.gallery-3col .box .img { height: auto; max-height: 350px; background: none; }
-.gallery-3col .box .img img { width: 100%; height: auto; max-height: 350px; object-fit: contain; }
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Espana on Osos de Viaje</title><link>https://ososdeviaje.com/categories/espana/</link><description>Recent content in Espana on Osos de Viaje</description><generator>Hugo -- gohugo.io</generator><language>es</language><copyright>© 2026 Osos de Viaje</copyright><lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://ososdeviaje.com/categories/espana/index.xml" rel="self" type="application/rss+xml"/><item><title>Ruta de senderismo por el Parque Natural de Mondragó en Mallorca</title><link>https://ososdeviaje.com/post/2026/02/ruta-de-senderismo-parque-natural-mondrago-mallorca/</link><pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2026/02/ruta-de-senderismo-parque-natural-mondrago-mallorca/</guid><description>&lt;style&gt;
+ .gallery-mondrago-2col {
+ display: grid;
+ grid-template-columns: repeat(2, 1fr);
+ gap: 15px;
+ margin: 2rem 0;
+ }
+ @media (max-width: 768px) {
+ .gallery-mondrago-2col {
+ grid-template-columns: 1fr;
+ }
+ }
+ .gallery-mondrago-2col figure {
+ margin: 0;
+ overflow: hidden;
+ border-radius: 8px;
+ box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+ }
+ .gallery-mondrago-2col img {
+ width: 100%;
+ height: 280px;
+ object-fit: cover;
+ transition: transform 0.3s ease;
+ display: block;
+ }
+ .gallery-mondrago-2col img:hover {
+ transform: scale(1.03);
+ }
+ .gallery-mondrago-2col figcaption {
+ padding: 12px;
+ text-align: center;
+ font-size: 0.9rem;
+ color: #555;
+ background: #fafafa;
+ }
 &lt;/style&gt;
-
+&lt;p&gt;El &lt;strong&gt;Parque Natural de Mondragó&lt;/strong&gt; se sitúa en el sureste de Mallorca, dentro del municipio de &lt;strong&gt;Santanyí&lt;/strong&gt;, y es uno de esos lugares donde la isla muestra su lado más natural. Protege cerca de 780 hectáreas de costa mediterránea con calas de aguas claras, dunas bien conservadas, acantilados bajos y zonas húmedas que forman un paisaje muy variado y fácil de disfrutar.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2026/02/ruta-de-senderismo-parque-natural-mondrago-mallorca/cover.jpeg"/></item><item><title>Qué hacer y qué ver en Pollença (Mallorca)</title><link>https://ososdeviaje.com/post/2025/06/que-hacer-y-que-ver-en-pollenca-mallorca/</link><pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2025/06/que-hacer-y-que-ver-en-pollenca-mallorca/</guid><description>&lt;style&gt;
+ .gallery-pollenca-2col {
+ display: grid;
+ grid-template-columns: repeat(2, 1fr);
+ gap: 15px;
+ margin: 2rem 0;
+ }
+ @media (max-width: 768px) {
+ .gallery-pollenca-2col {
+ grid-template-columns: 1fr;
+ }
+ }
+ .gallery-pollenca-2col figure {
+ margin: 0;
+ overflow: hidden;
+ border-radius: 8px;
+ box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+ }
+ .gallery-pollenca-2col img {
+ width: 100%;
+ height: 280px;
+ object-fit: cover;
+ transition: transform 0.3s ease;
+ display: block;
+ }
+ .gallery-pollenca-2col img:hover {
+ transform: scale(1.03);
+ }
+ .gallery-pollenca-2col figcaption {
+ padding: 12px;
+ text-align: center;
+ font-size: 0.9rem;
+ color: #555;
+ background: #fafafa;
+ }
+&lt;/style&gt;
 &lt;p&gt;Pollença es un pueblo situado en el norte de Mallorca, tocando a la Serra de Tramuntana y muy cerca del cabo de Formentor. En este artículo os explicamos que hacer allí.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2025/06/que-hacer-y-que-ver-en-pollenca-mallorca/feature.jpeg"/></item><item><title>Caminos de Ronda cerca de Begur (Costa Brava)</title><link>https://ososdeviaje.com/post/2025/04/caminos-de-ronda-begur-costa-brava/</link><pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2025/04/caminos-de-ronda-begur-costa-brava/</guid><description>&lt;p&gt;Begur es uno de esos rincones de la Costa Brava que parece sacado de una postal. Este pequeño pueblo del Empordà, con su castillo en lo alto, calles de piedra y casas de estilo indiano, guarda tesoros en forma de calas escondidas, acantilados y vistas espectaculares al Mediterráneo. Uno de los mejores planes para descubrir su costa es hacer alguno de sus caminos de ronda.&lt;/p&gt;
 &lt;p&gt;Hay tres tramos principales que salen desde Begur:&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2025/04/caminos-de-ronda-begur-costa-brava/feature.jpeg"/></item><item><title>Ruta de les ermites del Corb (Garrotxa)</title><link>https://ososdeviaje.com/post/2025/03/ruta-de-les-ermites-del-corb-garrotxa/</link><pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2025/03/ruta-de-les-ermites-del-corb-garrotxa/</guid><description>&lt;p&gt;Si buscas una excursión que combine naturaleza, historia y unas vistas espectaculares de la Garrotxa, la ruta de las ermitas del Corb es una gran elección. Este recorrido nos lleva a visitar dos ermitas medievales, la ermita de Sant Miquel del Corb y la ermita de Sant Martí del Corb, además de ofrecernos un precioso paseo por un hayedo precioso.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Puntos de interés en la ruta&lt;/strong&gt;&lt;/p&gt;

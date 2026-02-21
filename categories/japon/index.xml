@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Japon on Osos de Viaje</title><link>https://ososdeviaje.com/categories/japon/</link><description>Recent content in Japon on Osos de Viaje</description><generator>Hugo -- gohugo.io</generator><language>es</language><copyright>© 2026 Osos de Viaje</copyright><lastBuildDate>Tue, 02 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ososdeviaje.com/categories/japon/index.xml" rel="self" type="application/rss+xml"/><item><title>Qué hacer en Osaka en dos días</title><link>https://ososdeviaje.com/post/2025/12/que-hacer-en-osaka-en-dos-dias/</link><pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2025/12/que-hacer-en-osaka-en-dos-dias/</guid><description>&lt;style&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Japon on Osos de Viaje</title><link>https://ososdeviaje.com/categories/japon/</link><description>Recent content in Japon on Osos de Viaje</description><generator>Hugo -- gohugo.io</generator><language>es</language><copyright>© 2026 Osos de Viaje</copyright><lastBuildDate>Sun, 15 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://ososdeviaje.com/categories/japon/index.xml" rel="self" type="application/rss+xml"/><item><title>Qué hacer en Hokkaido Central</title><link>https://ososdeviaje.com/post/2026/02/que-hacer-en-hokkaido-central/</link><pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2026/02/que-hacer-en-hokkaido-central/</guid><description>&lt;style&gt;
+ .gallery-hokkaido-2col {
+ display: grid;
+ grid-template-columns: repeat(2, 1fr);
+ gap: 15px;
+ margin: 2rem 0;
+ }
+ @media (max-width: 768px) {
+ .gallery-hokkaido-2col {
+ grid-template-columns: 1fr;
+ }
+ }
+ .gallery-hokkaido-2col figure {
+ margin: 0;
+ overflow: hidden;
+ border-radius: 8px;
+ box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+ }
+ .gallery-hokkaido-2col img {
+ width: 100%;
+ height: 280px;
+ object-fit: cover;
+ transition: transform 0.3s ease;
+ display: block;
+ }
+ .gallery-hokkaido-2col img:hover {
+ transform: scale(1.03);
+ }
+ .gallery-hokkaido-2col figcaption {
+ padding: 12px;
+ text-align: center;
+ font-size: 0.9rem;
+ color: #555;
+ background: #fafafa;
+ }
+&lt;/style&gt;
+&lt;p&gt;Llegamos a Hokkaidō en avión desde Osaka, aterrizando en el aeropuerto de New Chitose, principal aeropuerto de Sapporo. El trayecto entre el aeropuerto y la ciudad dura aproximadamente una hora.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2026/02/que-hacer-en-hokkaido-central/cover_hokkaido.jpeg"/></item><item><title>Qué hacer en Osaka en dos días</title><link>https://ososdeviaje.com/post/2025/12/que-hacer-en-osaka-en-dos-dias/</link><pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2025/12/que-hacer-en-osaka-en-dos-dias/</guid><description>&lt;style&gt;
  .gallery-osaka {
  display: grid;
  grid-template-columns: repeat(3, 1fr);

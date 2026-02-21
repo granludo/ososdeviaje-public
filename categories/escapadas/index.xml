@@ -1,15 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Escapadas on Osos de Viaje</title><link>https://ososdeviaje.com/categories/escapadas/</link><description>Recent content in Escapadas on Osos de Viaje</description><generator>Hugo -- gohugo.io</generator><language>es</language><copyright>© 2026 Osos de Viaje</copyright><lastBuildDate>Sun, 02 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ososdeviaje.com/categories/escapadas/index.xml" rel="self" type="application/rss+xml"/><item><title>Escapada a Holanda meridional</title><link>https://ososdeviaje.com/post/2025/11/escapada-a-holanda-meridional/</link><pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2025/11/escapada-a-holanda-meridional/</guid><description>&lt;p&gt;Os traigo una propuesta de escapada de 2 o 3 días para descubrir la zona de &lt;strong&gt;Brabante del norte&lt;/strong&gt; (Noord-Brabant en neerlandés). Esta provincia se encuentra en el sur del país, en la frontera con Bélgica.&lt;/p&gt;
-
-&lt;h2 class="relative group"&gt;&lt;strong&gt;Cómo llegar&lt;/strong&gt;
- &lt;div id="cómo-llegar" class="anchor"&gt;&lt;/div&gt;
- 
- &lt;span
- class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
- &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#c%c3%b3mo-llegar" aria-label="Ancla"&gt;#&lt;/a&gt;
- &lt;/span&gt;
- 
-&lt;/h2&gt;
-&lt;p&gt;La forma más sencilla de empezar esta ruta es volando a Eindhoven. Desde Barcelona existen vuelos directos con Transavia y el trayecto se recorre en poco más de dos horas.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2025/11/escapada-a-holanda-meridional/feature.jpeg"/></item><item><title>Un día en Argelès en el sur de Francia con niños</title><link>https://ososdeviaje.com/post/2025/05/un-dia-en-argeles-en-el-sur-de-francia-con-ninos/</link><pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2025/05/un-dia-en-argeles-en-el-sur-de-francia-con-ninos/</guid><description>&lt;p&gt;Argelès-sur-Mer es una localidad costera del sur de Francia, ubicada en el departamento de los Pirineos Orientales, en la región de Occitania. Está muy cerca de la frontera con Cataluña, por lo que es un lugar ideal para hacer una escapada.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Escapadas on Osos de Viaje</title><link>https://ososdeviaje.com/categories/escapadas/</link><description>Recent content in Escapadas on Osos de Viaje</description><generator>Hugo -- gohugo.io</generator><language>es</language><copyright>© 2026 Osos de Viaje</copyright><lastBuildDate>Sun, 02 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ososdeviaje.com/categories/escapadas/index.xml" rel="self" type="application/rss+xml"/><item><title>Escapada a Holanda meridional</title><link>https://ososdeviaje.com/post/2025/11/escapada-a-holanda-meridional/</link><pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2025/11/escapada-a-holanda-meridional/</guid><description>&lt;style&gt;
+ .gallery-holanda-2col {
+ display: grid;
+ grid-template-columns: repeat(2, 1fr);
+ gap: 15px;
+ margin: 2rem 0;
+ }
+ @media (max-width: 768px) {
+ .gallery-holanda-2col {
+ grid-template-columns: 1fr;
+ }
+ }
+ .gallery-holanda-2col figure {
+ margin: 0;
+ overflow: hidden;
+ border-radius: 8px;
+ box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+ }
+ .gallery-holanda-2col img {
+ width: 100%;
+ height: 280px;
+ object-fit: cover;
+ transition: transform 0.3s ease;
+ display: block;
+ }
+ .gallery-holanda-2col img:hover {
+ transform: scale(1.03);
+ }
+ .gallery-holanda-2col figcaption {
+ padding: 12px;
+ text-align: center;
+ font-size: 0.9rem;
+ color: #555;
+ background: #fafafa;
+ }
+&lt;/style&gt;
+&lt;p&gt;Os traigo una propuesta de escapada de 2 o 3 días para descubrir la zona de &lt;strong&gt;Brabante del norte&lt;/strong&gt; (Noord-Brabant en neerlandés). Esta provincia se encuentra en el sur del país, en la frontera con Bélgica.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2025/11/escapada-a-holanda-meridional/feature.jpeg"/></item><item><title>Un día en Argelès en el sur de Francia con niños</title><link>https://ososdeviaje.com/post/2025/05/un-dia-en-argeles-en-el-sur-de-francia-con-ninos/</link><pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2025/05/un-dia-en-argeles-en-el-sur-de-francia-con-ninos/</guid><description>&lt;p&gt;Argelès-sur-Mer es una localidad costera del sur de Francia, ubicada en el departamento de los Pirineos Orientales, en la región de Occitania. Está muy cerca de la frontera con Cataluña, por lo que es un lugar ideal para hacer una escapada.&lt;/p&gt;
 &lt;p&gt;El sur de Argelès, concretamente, la playa de le Racou, marca el inicio de la conocida &lt;strong&gt;Côte Vermeille&lt;/strong&gt;, una franja de costa hasta la frontera con España, donde las montañas de los Pirineos bajan hasta el mar, creando un paisaje espectacular entre acantilados, playas y viñedos.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2025/05/un-dia-en-argeles-en-el-sur-de-francia-con-ninos/feature.jpeg"/></item><item><title>Qué ver y qué hacer cerca de Jaca</title><link>https://ososdeviaje.com/post/2024/11/que-ver-y-que-hacer-cerca-de-jaca/</link><pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2024/11/que-ver-y-que-hacer-cerca-de-jaca/</guid><description>&lt;p&gt;Jaca, conocida como la puerta de los Pirineos, es el punto de partida perfecto para explorar algunos de los valles más espectaculares del Pirineo aragonés. Rodeada de un paisaje montañoso impresionante, esta histórica ciudad es el epicentro de una naturaleza salvaje y fascinante que se extiende por los valles vecinos.&lt;/p&gt;
 &lt;p&gt;A tan solo unos kilómetros de Jaca, se despliegan los valles de Aísa, Hecho, Tena y Aragón, auténticos tesoros naturales donde los amantes de la montaña podemos disfrutar de rutas que serpentean entre frondosos bosques, praderas alpinas y caudalosos ríos que nacen en las cumbres más altas de los Pirineos.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2024/11/que-ver-y-que-hacer-cerca-de-jaca/feature.jpeg"/></item><item><title>Un día en Alcalá del Júcar</title><link>https://ososdeviaje.com/post/2024/02/un-dia-en-alcala-del-jucar/</link><pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2024/02/un-dia-en-alcala-del-jucar/</guid><description>&lt;p&gt;En el corazón de la provincia de Albacete, junto a un meandro del río Júcar, se encuentra Alcalá del Júcar, un pequeño pueblo que forma parte de los &amp;ldquo;pueblos más bonitos de España&amp;rdquo;. Tuvimos la suerte de pasar un día en este hermoso lugar y en este artículo os contamos lo que hicimos.&lt;/p&gt;
 

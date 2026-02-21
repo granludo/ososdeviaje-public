@@ -1,16 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Invierno on Osos de Viaje</title><link>https://ososdeviaje.com/categories/invierno/</link><description>Recent content in Invierno on Osos de Viaje</description><generator>Hugo -- gohugo.io</generator><language>es</language><copyright>© 2026 Osos de Viaje</copyright><lastBuildDate>Thu, 12 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ososdeviaje.com/categories/invierno/index.xml" rel="self" type="application/rss+xml"/><item><title>Qué hacer y qué ver en Pollença (Mallorca)</title><link>https://ososdeviaje.com/post/2025/06/que-hacer-y-que-ver-en-pollenca-mallorca/</link><pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2025/06/que-hacer-y-que-ver-en-pollenca-mallorca/</guid><description>&lt;style&gt;
-/* Galeria 2 columnes amb proporcions naturals */
-.gallery-natural { display: flex; flex-wrap: wrap; gap: 10px; }
-.gallery-natural .box { flex: 0 0 calc(50% - 5px); max-width: calc(50% - 5px); }
-.gallery-natural .box .img { height: auto; max-height: 400px; background: none; }
-.gallery-natural .box .img img { width: 100%; height: auto; max-height: 400px; object-fit: contain; }
-/* Galeria 3 columnes amb proporcions naturals */
-.gallery-3col { display: flex; flex-wrap: wrap; gap: 10px; }
-.gallery-3col .box { flex: 0 0 calc(33.333% - 7px); max-width: calc(33.333% - 7px); }
-.gallery-3col .box .img { height: auto; max-height: 350px; background: none; }
-.gallery-3col .box .img img { width: 100%; height: auto; max-height: 350px; object-fit: contain; }
+ .gallery-pollenca-2col {
+ display: grid;
+ grid-template-columns: repeat(2, 1fr);
+ gap: 15px;
+ margin: 2rem 0;
+ }
+ @media (max-width: 768px) {
+ .gallery-pollenca-2col {
+ grid-template-columns: 1fr;
+ }
+ }
+ .gallery-pollenca-2col figure {
+ margin: 0;
+ overflow: hidden;
+ border-radius: 8px;
+ box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+ }
+ .gallery-pollenca-2col img {
+ width: 100%;
+ height: 280px;
+ object-fit: cover;
+ transition: transform 0.3s ease;
+ display: block;
+ }
+ .gallery-pollenca-2col img:hover {
+ transform: scale(1.03);
+ }
+ .gallery-pollenca-2col figcaption {
+ padding: 12px;
+ text-align: center;
+ font-size: 0.9rem;
+ color: #555;
+ background: #fafafa;
+ }
 &lt;/style&gt;
-
 &lt;p&gt;Pollença es un pueblo situado en el norte de Mallorca, tocando a la Serra de Tramuntana y muy cerca del cabo de Formentor. En este artículo os explicamos que hacer allí.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2025/06/que-hacer-y-que-ver-en-pollenca-mallorca/feature.jpeg"/></item><item><title>Village de Noël de Le Barcarès (sur de Francia)</title><link>https://ososdeviaje.com/post/2023/12/la-village-de-noel-de-le-barcares/</link><pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2023/12/la-village-de-noel-de-le-barcares/</guid><description>&lt;p&gt;Si estás buscando un lugar mágico para disfrutar de la Navidad, la Village de Noël en le Barcarès, en el sur de Francia, es una opción que no te puedes perder. Desde 1999 en este pequeño pueblo marinero de la costa mediterranea francesa, se instala a finales de noviembre un recinto de 3000 metros cuadrados dedicado a la Navidad y a Papá Noel. Aquí te cuento todo lo que necesitas saber para planificar tu visita.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2023/12/la-village-de-noel-de-le-barcares/feature.jpeg"/></item><item><title>Navidad en Francia: propuestas de viajes con niños</title><link>https://ososdeviaje.com/post/2023/11/navidad-en-francia-propuestas-de-viajes-con-ninos/</link><pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2023/11/navidad-en-francia-propuestas-de-viajes-con-ninos/</guid><description>&lt;p&gt;En este artículo recogemos algunas propuestas divertidas para pasar la Navidad con niños en Francia.&lt;/p&gt;
 
 &lt;h2 class="relative group"&gt;1. Los mercados navideños de Alsacia
