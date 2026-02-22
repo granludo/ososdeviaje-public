@@ -34,8 +34,82 @@
  background: #fafafa;
  }
 &lt;/style&gt;
-&lt;p&gt;Os traigo una propuesta de escapada de 2 o 3 días para descubrir la zona de &lt;strong&gt;Brabante del norte&lt;/strong&gt; (Noord-Brabant en neerlandés). Esta provincia se encuentra en el sur del país, en la frontera con Bélgica.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2025/11/escapada-a-holanda-meridional/feature.jpeg"/></item><item><title>Un día en Argelès en el sur de Francia con niños</title><link>https://ososdeviaje.com/post/2025/05/un-dia-en-argeles-en-el-sur-de-francia-con-ninos/</link><pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2025/05/un-dia-en-argeles-en-el-sur-de-francia-con-ninos/</guid><description>&lt;p&gt;Argelès-sur-Mer es una localidad costera del sur de Francia, ubicada en el departamento de los Pirineos Orientales, en la región de Occitania. Está muy cerca de la frontera con Cataluña, por lo que es un lugar ideal para hacer una escapada.&lt;/p&gt;
-&lt;p&gt;El sur de Argelès, concretamente, la playa de le Racou, marca el inicio de la conocida &lt;strong&gt;Côte Vermeille&lt;/strong&gt;, una franja de costa hasta la frontera con España, donde las montañas de los Pirineos bajan hasta el mar, creando un paisaje espectacular entre acantilados, playas y viñedos.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2025/05/un-dia-en-argeles-en-el-sur-de-francia-con-ninos/feature.jpeg"/></item><item><title>Qué ver y qué hacer cerca de Jaca</title><link>https://ososdeviaje.com/post/2024/11/que-ver-y-que-hacer-cerca-de-jaca/</link><pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2024/11/que-ver-y-que-hacer-cerca-de-jaca/</guid><description>&lt;p&gt;Jaca, conocida como la puerta de los Pirineos, es el punto de partida perfecto para explorar algunos de los valles más espectaculares del Pirineo aragonés. Rodeada de un paisaje montañoso impresionante, esta histórica ciudad es el epicentro de una naturaleza salvaje y fascinante que se extiende por los valles vecinos.&lt;/p&gt;
+&lt;p&gt;Os traigo una propuesta de escapada de 2 o 3 días para descubrir la zona de &lt;strong&gt;Brabante del norte&lt;/strong&gt; (Noord-Brabant en neerlandés). Esta provincia se encuentra en el sur del país, en la frontera con Bélgica.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2025/11/escapada-a-holanda-meridional/feature.jpeg"/></item><item><title>Un día en Argelès en el sur de Francia con niños</title><link>https://ososdeviaje.com/post/2025/05/un-dia-en-argeles-en-el-sur-de-francia-con-ninos/</link><pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2025/05/un-dia-en-argeles-en-el-sur-de-francia-con-ninos/</guid><description>&lt;style&gt;
+ .gallery-argeles-2col {
+ display: grid;
+ grid-template-columns: repeat(2, 1fr);
+ gap: 15px;
+ margin: 2rem 0;
+ }
+ @media (max-width: 768px) {
+ .gallery-argeles-2col {
+ grid-template-columns: 1fr;
+ }
+ }
+ .gallery-argeles-2col figure {
+ margin: 0;
+ overflow: hidden;
+ border-radius: 8px;
+ box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+ }
+ .gallery-argeles-2col img {
+ width: 100%;
+ height: 280px;
+ object-fit: cover;
+ transition: transform 0.3s ease;
+ display: block;
+ }
+ .gallery-argeles-2col img:hover {
+ transform: scale(1.03);
+ }
+ .gallery-argeles-2col figcaption {
+ padding: 12px;
+ text-align: center;
+ font-size: 0.9rem;
+ color: #555;
+ background: #fafafa;
+ }
+ .gallery-argeles-3col {
+ display: grid;
+ grid-template-columns: repeat(3, 1fr);
+ gap: 15px;
+ margin: 2rem 0;
+ }
+ @media (max-width: 900px) {
+ .gallery-argeles-3col {
+ grid-template-columns: repeat(2, 1fr);
+ }
+ }
+ @media (max-width: 600px) {
+ .gallery-argeles-3col {
+ grid-template-columns: 1fr;
+ }
+ }
+ .gallery-argeles-3col figure {
+ margin: 0;
+ overflow: hidden;
+ border-radius: 8px;
+ box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+ }
+ .gallery-argeles-3col img {
+ width: 100%;
+ height: 280px;
+ object-fit: cover;
+ transition: transform 0.3s ease;
+ display: block;
+ }
+ .gallery-argeles-3col img:hover {
+ transform: scale(1.03);
+ }
+ .gallery-argeles-3col figcaption {
+ padding: 12px;
+ text-align: center;
+ font-size: 0.9rem;
+ color: #555;
+ background: #fafafa;
+ }
+&lt;/style&gt;
+&lt;p&gt;Argelès-sur-Mer es una localidad costera del sur de Francia, ubicada en el departamento de los Pirineos Orientales, en la región de Occitania. Está muy cerca de la frontera con Cataluña, por lo que es un lugar ideal para hacer una escapada.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2025/05/un-dia-en-argeles-en-el-sur-de-francia-con-ninos/feature.jpeg"/></item><item><title>Qué ver y qué hacer cerca de Jaca</title><link>https://ososdeviaje.com/post/2024/11/que-ver-y-que-hacer-cerca-de-jaca/</link><pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2024/11/que-ver-y-que-hacer-cerca-de-jaca/</guid><description>&lt;p&gt;Jaca, conocida como la puerta de los Pirineos, es el punto de partida perfecto para explorar algunos de los valles más espectaculares del Pirineo aragonés. Rodeada de un paisaje montañoso impresionante, esta histórica ciudad es el epicentro de una naturaleza salvaje y fascinante que se extiende por los valles vecinos.&lt;/p&gt;
 &lt;p&gt;A tan solo unos kilómetros de Jaca, se despliegan los valles de Aísa, Hecho, Tena y Aragón, auténticos tesoros naturales donde los amantes de la montaña podemos disfrutar de rutas que serpentean entre frondosos bosques, praderas alpinas y caudalosos ríos que nacen en las cumbres más altas de los Pirineos.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2024/11/que-ver-y-que-hacer-cerca-de-jaca/feature.jpeg"/></item><item><title>Un día en Alcalá del Júcar</title><link>https://ososdeviaje.com/post/2024/02/un-dia-en-alcala-del-jucar/</link><pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2024/02/un-dia-en-alcala-del-jucar/</guid><description>&lt;p&gt;En el corazón de la provincia de Albacete, junto a un meandro del río Júcar, se encuentra Alcalá del Júcar, un pequeño pueblo que forma parte de los &amp;ldquo;pueblos más bonitos de España&amp;rdquo;. Tuvimos la suerte de pasar un día en este hermoso lugar y en este artículo os contamos lo que hicimos.&lt;/p&gt;
 
 &lt;h2 class="relative group"&gt;1. Miradores

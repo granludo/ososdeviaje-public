@@ -34,8 +34,82 @@
  background: #fafafa;
  }
 &lt;/style&gt;
-&lt;p&gt;Pollença es un pueblo situado en el norte de Mallorca, tocando a la Serra de Tramuntana y muy cerca del cabo de Formentor. En este artículo os explicamos que hacer allí.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2025/06/que-hacer-y-que-ver-en-pollenca-mallorca/feature.jpeg"/></item><item><title>Un día en Argelès en el sur de Francia con niños</title><link>https://ososdeviaje.com/post/2025/05/un-dia-en-argeles-en-el-sur-de-francia-con-ninos/</link><pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2025/05/un-dia-en-argeles-en-el-sur-de-francia-con-ninos/</guid><description>&lt;p&gt;Argelès-sur-Mer es una localidad costera del sur de Francia, ubicada en el departamento de los Pirineos Orientales, en la región de Occitania. Está muy cerca de la frontera con Cataluña, por lo que es un lugar ideal para hacer una escapada.&lt;/p&gt;
-&lt;p&gt;El sur de Argelès, concretamente, la playa de le Racou, marca el inicio de la conocida &lt;strong&gt;Côte Vermeille&lt;/strong&gt;, una franja de costa hasta la frontera con España, donde las montañas de los Pirineos bajan hasta el mar, creando un paisaje espectacular entre acantilados, playas y viñedos.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2025/05/un-dia-en-argeles-en-el-sur-de-francia-con-ninos/feature.jpeg"/></item><item><title>Caminos de Ronda cerca de Begur (Costa Brava)</title><link>https://ososdeviaje.com/post/2025/04/caminos-de-ronda-begur-costa-brava/</link><pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2025/04/caminos-de-ronda-begur-costa-brava/</guid><description>&lt;p&gt;Begur es uno de esos rincones de la Costa Brava que parece sacado de una postal. Este pequeño pueblo del Empordà, con su castillo en lo alto, calles de piedra y casas de estilo indiano, guarda tesoros en forma de calas escondidas, acantilados y vistas espectaculares al Mediterráneo. Uno de los mejores planes para descubrir su costa es hacer alguno de sus caminos de ronda.&lt;/p&gt;
+&lt;p&gt;Pollença es un pueblo situado en el norte de Mallorca, tocando a la Serra de Tramuntana y muy cerca del cabo de Formentor. En este artículo os explicamos que hacer allí.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2025/06/que-hacer-y-que-ver-en-pollenca-mallorca/feature.jpeg"/></item><item><title>Un día en Argelès en el sur de Francia con niños</title><link>https://ososdeviaje.com/post/2025/05/un-dia-en-argeles-en-el-sur-de-francia-con-ninos/</link><pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2025/05/un-dia-en-argeles-en-el-sur-de-francia-con-ninos/</guid><description>&lt;style&gt;
+ .gallery-argeles-2col {
+ display: grid;
+ grid-template-columns: repeat(2, 1fr);
+ gap: 15px;
+ margin: 2rem 0;
+ }
+ @media (max-width: 768px) {
+ .gallery-argeles-2col {
+ grid-template-columns: 1fr;
+ }
+ }
+ .gallery-argeles-2col figure {
+ margin: 0;
+ overflow: hidden;
+ border-radius: 8px;
+ box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+ }
+ .gallery-argeles-2col img {
+ width: 100%;
+ height: 280px;
+ object-fit: cover;
+ transition: transform 0.3s ease;
+ display: block;
+ }
+ .gallery-argeles-2col img:hover {
+ transform: scale(1.03);
+ }
+ .gallery-argeles-2col figcaption {
+ padding: 12px;
+ text-align: center;
+ font-size: 0.9rem;
+ color: #555;
+ background: #fafafa;
+ }
+ .gallery-argeles-3col {
+ display: grid;
+ grid-template-columns: repeat(3, 1fr);
+ gap: 15px;
+ margin: 2rem 0;
+ }
+ @media (max-width: 900px) {
+ .gallery-argeles-3col {
+ grid-template-columns: repeat(2, 1fr);
+ }
+ }
+ @media (max-width: 600px) {
+ .gallery-argeles-3col {
+ grid-template-columns: 1fr;
+ }
+ }
+ .gallery-argeles-3col figure {
+ margin: 0;
+ overflow: hidden;
+ border-radius: 8px;
+ box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+ }
+ .gallery-argeles-3col img {
+ width: 100%;
+ height: 280px;
+ object-fit: cover;
+ transition: transform 0.3s ease;
+ display: block;
+ }
+ .gallery-argeles-3col img:hover {
+ transform: scale(1.03);
+ }
+ .gallery-argeles-3col figcaption {
+ padding: 12px;
+ text-align: center;
+ font-size: 0.9rem;
+ color: #555;
+ background: #fafafa;
+ }
+&lt;/style&gt;
+&lt;p&gt;Argelès-sur-Mer es una localidad costera del sur de Francia, ubicada en el departamento de los Pirineos Orientales, en la región de Occitania. Está muy cerca de la frontera con Cataluña, por lo que es un lugar ideal para hacer una escapada.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2025/05/un-dia-en-argeles-en-el-sur-de-francia-con-ninos/feature.jpeg"/></item><item><title>Caminos de Ronda cerca de Begur (Costa Brava)</title><link>https://ososdeviaje.com/post/2025/04/caminos-de-ronda-begur-costa-brava/</link><pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2025/04/caminos-de-ronda-begur-costa-brava/</guid><description>&lt;p&gt;Begur es uno de esos rincones de la Costa Brava que parece sacado de una postal. Este pequeño pueblo del Empordà, con su castillo en lo alto, calles de piedra y casas de estilo indiano, guarda tesoros en forma de calas escondidas, acantilados y vistas espectaculares al Mediterráneo. Uno de los mejores planes para descubrir su costa es hacer alguno de sus caminos de ronda.&lt;/p&gt;
 &lt;p&gt;Hay tres tramos principales que salen desde Begur:&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2025/04/caminos-de-ronda-begur-costa-brava/feature.jpeg"/></item><item><title>Qué ver y qué hacer cerca de Jaca</title><link>https://ososdeviaje.com/post/2024/11/que-ver-y-que-hacer-cerca-de-jaca/</link><pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2024/11/que-ver-y-que-hacer-cerca-de-jaca/</guid><description>&lt;p&gt;Jaca, conocida como la puerta de los Pirineos, es el punto de partida perfecto para explorar algunos de los valles más espectaculares del Pirineo aragonés. Rodeada de un paisaje montañoso impresionante, esta histórica ciudad es el epicentro de una naturaleza salvaje y fascinante que se extiende por los valles vecinos.&lt;/p&gt;
 &lt;p&gt;A tan solo unos kilómetros de Jaca, se despliegan los valles de Aísa, Hecho, Tena y Aragón, auténticos tesoros naturales donde los amantes de la montaña podemos disfrutar de rutas que serpentean entre frondosos bosques, praderas alpinas y caudalosos ríos que nacen en las cumbres más altas de los Pirineos.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2024/11/que-ver-y-que-hacer-cerca-de-jaca/feature.jpeg"/></item><item><title>Visitar el Parc Samà</title><link>https://ososdeviaje.com/post/2024/05/visitar-el-parc-sama/</link><pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2024/05/visitar-el-parc-sama/</guid><description>&lt;p&gt;&lt;strong&gt;Ubicación: Entre Cambrils i Montbrió del Camp (Tarragona).&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Construido en 1881, el Parque Samá en Cambrils es un magnífico jardín botánico de 14 hectáreas que alberga más de 1.500 especies de plantas y animales. Es considerado uno de los mejores ejemplos de jardinería romántica en España y fue diseñado como residencia de verano para la familia Samá, marqueses de Marianao. El jardín, catalogado como Bien de Interés Cultural en la categoría de Jardín Histórico, forma parte del &lt;a href="https://www.europeanhistoricgardens.eu/en/gardens" target="_blank" rel="noreferrer"&gt;Itinerario Europeo de Jardines Históricos&lt;/a&gt;.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2024/05/visitar-el-parc-sama/feature.jpeg"/></item><item><title>Qué hacer en en Granada en dos días</title><link>https://ososdeviaje.com/post/2024/04/que-hacer-en-en-granada-en-dos-dias/</link><pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate><guid>https://ososdeviaje.com/post/2024/04/que-hacer-en-en-granada-en-dos-dias/</guid><description>&lt;p&gt;Este veranos pasamos un fin de semana en Granada y provechamos para volver a visitar uno de los monumentos más visitados de España: la Alhambra. En esta entrada os explicamos que más hicimos en esta preciosa ciudad del sur de España.&lt;/p&gt;
