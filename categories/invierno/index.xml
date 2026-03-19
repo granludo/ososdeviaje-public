@@ -79,8 +79,12 @@
  class="my-0 rounded-md"
  loading="lazy"
  decoding="async"
- fetchpriority="low"
+ fetchpriority="auto"
  alt=""
- src="1506423333_9526dbd43b.jpg"
- &gt;&lt;/figure&gt;
+ width="1250"
+ height="938"
+ src="https://ososdeviaje.com/post/2007/10/hong-kong-punto-de-encuentro-entre-dos-mundos-i/IMG_0002_hu_5e1595f2b65480f4.jpeg"
+ srcset="https://ososdeviaje.com/post/2007/10/hong-kong-punto-de-encuentro-entre-dos-mundos-i/IMG_0002_hu_5e1595f2b65480f4.jpeg 800w, https://ososdeviaje.com/post/2007/10/hong-kong-punto-de-encuentro-entre-dos-mundos-i/IMG_0002.jpeg 1280w"
+ sizes="(min-width: 768px) 50vw, 65vw"
+ data-zoom-src="https://ososdeviaje.com/post/2007/10/hong-kong-punto-de-encuentro-entre-dos-mundos-i/IMG_0002.jpeg"&gt;&lt;/figure&gt;
 &lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ososdeviaje.com/post/2007/10/hong-kong-punto-de-encuentro-entre-dos-mundos-i/feature.png"/></item></channel></rss>
